@@ -31,7 +31,7 @@ O objetivo foi aprender como criar uma página simples e interativa para resolve
 - Baixe ou clone este projeto:
 
 ```bash
-git clone https://github.com/jeniffermartins77/marcacao-ponto.git
+git clone https://github.com/jeniffermartins77/controle-ponto.git
 ```
 
 - Abra o arquivo index.html no navegador
