@@ -1,12 +1,12 @@
 # Projeto de controle de ponto
-Aplicação para registrar horários de trabalho e criar um bando de horas.
+Aplicação para registrar horários de trabalho e criar um banco de horas.
 
 # ⏰ Sobre o projeto
 
 Este projeto é um sistema de marcação de ponto, baseado em linguagens HTML, CSS e JavaScript.
 Ele permite que o usuário registre horários de entrada, pausa para almoço, retorno e saída do trabalho, mostrando tudo em uma lista de histórico na tela.
 
-O objetivo foi aprender como criar uma página e interativa para resolver uma situação do dia a dia.
+O objetivo foi aprender como criar uma página interativa para resolver uma situação do dia a dia.
 
 
 ## 🛠️ Tecnologias usadas
